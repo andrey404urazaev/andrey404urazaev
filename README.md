@@ -27,7 +27,7 @@
 
 ### 🌐 Контакты
 📞 +7-922-286-44-04  
-💬 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/AndreySergevich)  
+💬 [@AndreySergevich](https://t.me/AndreySergevich)
 📧 [andrey404urazaev@gmail.com](mailto:andrey404urazaev@gmail.com)  
 
 ---
