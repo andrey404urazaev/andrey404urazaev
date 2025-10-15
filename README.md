@@ -27,7 +27,7 @@
 
 ### 🌐 Контакты
 📞 +7-922-286-44-04  
-💬 [@AndreySergevich](https://t.me/AndreySergevich)  
+💬 [@andrey404urazaev](https://t.me/andrey404urazaev)  
 📧 [andrey404urazaev@gmail.com](mailto:andrey404urazaev@gmail.com)  
 
 ---
