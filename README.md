@@ -13,7 +13,7 @@
 
 ---
 
-**Чем я занимаюсь:**
+### 💼 Чем я занимаюсь:
 - 🧩 Архитектура клиентской части по принципам FSD, настройка Next.js (SSR/SSG), защищённые страницы.
 - ⚡ RTK Query: кеширование, пагинация, бесконечная прокрутка, optimistic updates (лайки/подписки).
 - 🧠 Redux Toolkit: слайсы, селекторы, нормализация данных.
@@ -27,9 +27,9 @@
 
 ### 🌐 Контакты
 📞 +7-922-286-44-04  
-💬 [@AndreySergevich](https://t.me/AndreySergevich)  
+💬 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/AndreySergevich)  
 📧 [andrey404urazaev@gmail.com](mailto:andrey404urazaev@gmail.com)  
 
 ---
 
-![Developer at work](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+![Developer at work](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjR0aTFxemE0Zm95M3JhNTAxOHVvM2Ezcm1lcnhqODQ5YXhveXVjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif)
